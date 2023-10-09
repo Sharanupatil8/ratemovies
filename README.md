@@ -1,7 +1,10 @@
 RateMovies - A Movie Rating and Bookmarking App
 RateMovies is a React application that allows users to search for movies using the OMDB API, rate them, and bookmark their favorite films. It's a simple yet effective way to keep track of your movie preferences.
 
-RateMovies Screenshot
+![Screenshot 2023-10-09 221518](https://github.com/Sharanupatil8/ratemovies/assets/93566630/4b4a70aa-2024-4de0-997e-b980545a38f4)
+![Screenshot 2023-10-09 221700](https://github.com/Sharanupatil8/ratemovies/assets/93566630/ab4bbc07-7b88-4c29-a0a5-779eb4c4a10e)
+
+
 
 Features
 Search for movies by title.
