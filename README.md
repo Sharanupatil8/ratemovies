@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+RateMovies - A Movie Rating and Bookmarking App
+RateMovies is a React application that allows users to search for movies using the OMDB API, rate them, and bookmark their favorite films. It's a simple yet effective way to keep track of your movie preferences.
+
+RateMovies Screenshot
+
+Features
+Search for movies by title.
+View movie details, including the title, year, director, plot, and poster.
+Rate movies on a scale of 1 to 5 stars.
+Bookmark movies for easy access later.
+Browse your bookmarked movies in the "My Bookmarks" section.
+Responsive design for both desktop and mobile devices.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
